@@ -1,5 +1,5 @@
 # Vertica-Commands
-# Vertica commands
+
  General Commands for Vertica
 
 ## Get user_session/query_count
